@@ -1,7 +1,7 @@
 const CONFIGDATA = {
-  titleHeader: "small mày zang hồ lắm phải k",
+  titleHeader: "êy nhỏ  mày zang hồ lắm phải k",
   descriptionHeader:
-    "mày zang hồ I just punched the hole a little bit more ik ",
+    "mày zang hồ lắm đúng k hiền lại 1 xíu ik tao xin ",
   buttonYes: "Đồng Ý",
   buttonNo: "Không! mơ à con.",
   titleModar: "hihi zang hồ dễ thương",
