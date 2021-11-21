@@ -1,10 +1,10 @@
 const CONFIGDATA = {
-  titleHeader: "Làm người yêu tớ nhé I Love You",
+  titleHeader: "nhỏ mày zang hồ lắm phải k",
   descriptionHeader:
-    "Nếu cậu thoát ra và không trả lời thì có nghĩa là cậu đã ĐỒNG Ý rồi đấy ^^",
+    "mày zang hồ là tao đấm mài ấy hiền lại 1 xíu ik ",
   buttonYes: "Đồng Ý",
-  buttonNo: "Không! Còn lâu nhé.",
-  titleModar: "Cảm ơn em vì đồng ý",
+  buttonNo: "Không! mơ à con.",
+  titleModar: "vcl đã zang hồ lại còn hút đá ",
   descriptionModar:
-    'Tớ biết là cậu sẽ đồng ý làm người yêu tớ mà ^^ </br> Cám ơn cậu đã đồng ý để cho tớ được che chở và bảo vệ cậu.Đối với tớ, cậu mãi là cô bé :)) </br> "Thích cậu nhiều đến mấy, cậu sẽ hiểu thôi. </br>  Tớ thích cậu nhiều đến mấy, cậu sẽ hiểu thôi "',
+    'Tớ biết là cậu sẽ đồng ý làm người yêu tớ mà ^^ </br> hihi nhỏ hút đá zang hồ cute ^^ </br> "nhỏ zang hồ cute :))) "',
 };
