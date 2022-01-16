@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="IE=7">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <meta name="description" content="Gửi lời yêu của đến crush!">
+    <meta name="description" content="Gửi lời yêu của đến chị!">
     <meta name="author" content="DONGNGO">
     <link rel="stylesheet" href="./__.. Thế Giới của Anh ^^ ..___files/normalize.min.css">
     <link rel="preconnect" href="https://fonts.gstatic.com/">
@@ -30,7 +30,7 @@
             Làm người yêu em nhé I Love You
             <i class="ti-heart"></i>
         </h1>
-        <p class="header-description">Nếu cậu thoát ra và không trả lời thì có nghĩa là cậu đã ĐỒNG Ý rồi đấy ^^
+        <p class="header-description">Nếu chị thoát ra và không trả lời thì có nghĩa là cậu đã ĐỒNG Ý rồi đấy ^^
             <i class="ti-face-smile"></i>
         </p></header>
       <div class="content">
@@ -54,9 +54,9 @@
         <div class="modal__overlay"></div>
         <div class="modal__body">
           <div class="message-modal">
-            <div class="heading-name">Cảm ơn em vì đồng ý <i class="ti-heart"></i></div>
+            <div class="heading-name">Cảm ơn chị vì đồng ý <i class="ti-heart"></i></div>
             <div class="heading-msg">
-              <p class="message">Tớ biết là cậu sẽ đồng ý làm người yêu tớ mà ^^ <br> Cám ơn cậu đã đồng ý để cho tớ được che chở và bảo vệ cậu.Đối với tớ, cậu mãi là cô bé :)) <br> "Thích cậu nhiều đến mấy, cậu sẽ hiểu thôi. <br>  Tớ thích cậu nhiều đến mấy, cậu sẽ hiểu thôi "</p>
+              <p class="message">Tớ biết là chị sẽ đồng ý làm người yêu em mà ^^ <br> Cám ơn chị đã đồng ý để cho em được che chở và bảo vệ cậu.Đối với em, chị mãi là bé iu  :)) <br> "Thích cậu nhiều đến mấy, cậu sẽ hiểu thôi. <br>  Tớ thích cậu nhiều đến mấy, cậu sẽ hiểu thôi "</p>
             </div>
             <div class="footer-modal">
               <button class="btn btn-close">
@@ -69,8 +69,8 @@
       </div>
     </div>
     <script type="text/javascript" src="./__.. Thế Giới của Anh ^^ ..___files/jquery-3.6.0.min.js.tải xuống"></script>
-    <script src="./__.. Thế Giới của Anh ^^ ..___files/CONFIG.js.tải xuống"></script>
-    <script src="./__.. Thế Giới của Anh ^^ ..___files/main.js.tải xuống"></script>
+    <script src="./__.. Thế Giới của Em ^^ ..___files/CONFIG.js.tải xuống"></script>
+    <script src="./__.. Thế Giới của Em ^^ ..___files/main.js.tải xuống"></script>
   
 
 </body><div style="position: absolute; top: 0px;"></div></html>
